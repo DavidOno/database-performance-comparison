@@ -5,7 +5,7 @@ run_config: null
 workers: 1
 
 image:
-  name: maibornwolff/database-comparison
+  name: davidboettcher/database-comparison
   tag: latest
 
 nodeSelector: {}
